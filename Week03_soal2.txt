@@ -1,0 +1,6 @@
+31459 - Milla Fitriyany
+
+2. kesimpulan dari pengujian di soal
+apabila urutan daftar diklik maka akan keluar inputan "pernah diklik" di samping daftar yang di klik,
+dan akan menampilkan pop-up message "kata 1 dipilih" ini berarti kita mengklik kata 1 pada daftar,
+terakhir apabila kita mengklik tanda tambah maka nanti akan tercetak angka selanjutnya dengan keterangan "telah ditambahkan"
