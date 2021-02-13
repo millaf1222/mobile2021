@@ -1,0 +1,15 @@
+Milla Fitriyany - 31459
+2. Lakukan pengujian terhadap app anda dengan skenario di bawah ini:
+a. Kosongkan Angka 1 dan Angka 2, lalu klik salah satu button
+b. Kosongkan Angka 2, lalu klik button Bagi.
+c. Isi 0 (nol) pada Agka 2, lalu klik button Bagi.
+jawaban:
+a. bila angka1 dan angka2 dikosongkan dan selanjut nya kita mengklik salah satu button,
+   maka yang terjadi adalah aplikasi mengalami crash,atau tidak berjalan 
+b. bila angka1 diisi angka dan angka 2 dikosongkan kemudian kita klik bagi button,
+   maka yang terjadi adalah aplikasi mengalami crash juga
+c. bila angka1 diisi angka dan angka2 diisi 0 kemudian kitak klik bagi button,
+   maka hasil yang dikeluarkan adalah infinity
+untuk point a dan b kenapa program mengalami crash itu karena program tidak menerima inputan apapun
+atau "empty list", pada saat program tidak menerima apapun inputan sama developernya tidak bisa dihandle 
+sehingga itu yang mengakibatkan program mengalami crash.
