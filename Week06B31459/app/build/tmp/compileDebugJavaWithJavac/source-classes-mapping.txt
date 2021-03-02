@@ -1,0 +1,5 @@
+umn/ac/id/week06b_31459/MainActivity.java
+ umn.ac.id.week06b_31459.MainActivity
+ umn.ac.id.week06b_31459.MainActivity$1
+umn/ac/id/week06b_31459/BuildConfig.java
+ umn.ac.id.week06b_31459.BuildConfig
