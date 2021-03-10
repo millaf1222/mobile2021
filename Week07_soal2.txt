@@ -1,0 +1,19 @@
+Milla Fitriyany - 31459
+
+2. Lakukan pengujian terhadap app anda dengan mengklik tombol Foto dan Video (pada Tutorial
+Kamera). Serta untuk project tutorial Galeri Video, klik item pada RecyclerView pada Main Activity,
+Video, tombol Kembali dan EditText pada DetilVideo Activity . Beri catatan dan kesimpulan dari
+hasil pengujian app anda dan submit ke eLearning portal.
+
+jawab: 
+a. Pengujian yang dilakukan adalah pengambilan foto saat button diklik maka akan membuka
+aplikasi kamera hp dan bila klik ok maka foto yang diambil
+akan muncul di kamera. 
+Kemudian bila kita mengklik button foto lagi maka foto yang pertama diambil akan di replace
+sama juga untuk video, ketika button video diklik maka akan membuka aplikasi video pada hp dan bila mengklik
+ok maka video yang diambil akan tampil pada layar kamera. 
+Jika mengklik video maka terdapat button untuk memutar video, memutar balik dan mempercepat videonya.
+
+b. Pada saat  video ditekan akan langsung play videonya dan menampilkan deskripsi dari judul, keterangan dan uri.
+Dan bila kita mengklik button kembali maka kita akan kembali pada daftar video.
+
