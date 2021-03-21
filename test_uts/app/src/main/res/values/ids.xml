@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="mySongListView" type="id" />
+    <item name="mySongList" type="id" />
+    <item name="recyclerview" type="id" />
+    <item name="backbtn" type="id" />
+    <item name="img" type="id" />
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="ic_menu" />
+    <drawable name="ic_pause" />
+    <drawable name="ic_play" />
+    <drawable name="ic_skip" />
+    <drawable name="ic_previous" />
+    <drawable name="gradient_bg" />
+    <drawable name="pholder" />
+    <drawable name="ic_baseline_arrow_back_ios_24" />
+</resources>
